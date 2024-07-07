@@ -1,31 +1,31 @@
 {
     "category" : [
-    {
-        "id": 1,
-        "title": "Điện thoại di động",
-        "slug": "dien-thoai-di-dong",
-        "display": true,
-        "order": 1,
-        "keyword": "điện thoại di động, smartphone, feature phone",
-        "description": "Các sản phẩm điện thoại di động từ các thương hiệu nổi tiếng"
-    },
-    {
-        "id": 2,
-        "title": "Máy tính bảng",
-        "slug": "may-tinh-bang",
-        "display": true,
-        "order": 2,
-        "keyword": "máy tính bảng, tablet, ipad",
-        "description": "Các sản phẩm máy tính bảng đa dạng từ các thương hiệu uy tín"
-    },
-    {
-        "id": 3,
-        "title": "Phụ kiện điện thoại",
-        "slug": "phu-kien-dien-thoai",
-        "display": true,
-        "order": 3,
-        "keyword": "phụ kiện điện thoại, tai nghe, sạc dự phòng",
-        "description": "Các phụ kiện điện thoại đa dạng và tiện ích"
-    }
-]
+        {
+            "id": 1,
+            "title": "Điện thoại di động",
+            "slug": "dien-thoai-di-dong",
+            "display": true,
+            "order": 1,
+            "keyword": "điện thoại di động, smartphone, feature phone",
+            "description": "Các sản phẩm điện thoại di động từ các thương hiệu nổi tiếng"
+        },
+        {
+            "id": 2,
+            "title": "Máy tính bảng",
+            "slug": "may-tinh-bang",
+            "display": true,
+            "order": 2,
+            "keyword": "máy tính bảng, tablet, ipad",
+            "description": "Các sản phẩm máy tính bảng đa dạng từ các thương hiệu uy tín"
+        },
+        {
+            "id": 3,
+            "title": "Phụ kiện điện thoại",
+            "slug": "phu-kien-dien-thoai",
+            "display": true,
+            "order": 3,
+            "keyword": "phụ kiện điện thoại, tai nghe, sạc dự phòng",
+            "description": "Các phụ kiện điện thoại đa dạng và tiện ích"
+        }
+    ]
 }
